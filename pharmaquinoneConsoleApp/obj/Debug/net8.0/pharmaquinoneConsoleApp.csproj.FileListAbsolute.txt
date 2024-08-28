@@ -1,0 +1,14 @@
+C:\LOCAL\wazne\projekciki\pharmaquinoneConsoleApp\bin\Debug\net8.0\pharmaquinoneConsoleApp.exe
+C:\LOCAL\wazne\projekciki\pharmaquinoneConsoleApp\bin\Debug\net8.0\pharmaquinoneConsoleApp.deps.json
+C:\LOCAL\wazne\projekciki\pharmaquinoneConsoleApp\bin\Debug\net8.0\pharmaquinoneConsoleApp.runtimeconfig.json
+C:\LOCAL\wazne\projekciki\pharmaquinoneConsoleApp\bin\Debug\net8.0\pharmaquinoneConsoleApp.dll
+C:\LOCAL\wazne\projekciki\pharmaquinoneConsoleApp\bin\Debug\net8.0\pharmaquinoneConsoleApp.pdb
+C:\LOCAL\wazne\projekciki\pharmaquinoneConsoleApp\obj\Debug\net8.0\pharmaquinoneConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LOCAL\wazne\projekciki\pharmaquinoneConsoleApp\obj\Debug\net8.0\pharmaquinoneConsoleApp.AssemblyInfoInputs.cache
+C:\LOCAL\wazne\projekciki\pharmaquinoneConsoleApp\obj\Debug\net8.0\pharmaquinoneConsoleApp.AssemblyInfo.cs
+C:\LOCAL\wazne\projekciki\pharmaquinoneConsoleApp\obj\Debug\net8.0\pharmaquinoneConsoleApp.csproj.CoreCompileInputs.cache
+C:\LOCAL\wazne\projekciki\pharmaquinoneConsoleApp\obj\Debug\net8.0\pharmaquinoneConsoleApp.dll
+C:\LOCAL\wazne\projekciki\pharmaquinoneConsoleApp\obj\Debug\net8.0\refint\pharmaquinoneConsoleApp.dll
+C:\LOCAL\wazne\projekciki\pharmaquinoneConsoleApp\obj\Debug\net8.0\pharmaquinoneConsoleApp.pdb
+C:\LOCAL\wazne\projekciki\pharmaquinoneConsoleApp\obj\Debug\net8.0\pharmaquinoneConsoleApp.genruntimeconfig.cache
+C:\LOCAL\wazne\projekciki\pharmaquinoneConsoleApp\obj\Debug\net8.0\ref\pharmaquinoneConsoleApp.dll
